@@ -19,7 +19,11 @@ MonoBehaviour:
     width: 1280
     height: 637.3334
   m_ShowMode: 4
+<<<<<<< HEAD
   m_Title: Project
+=======
+  m_Title: Scene
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +52,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 44
+=======
+  controlID: 25
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +231,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 49
+=======
+  controlID: 16
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +260,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 50
+=======
+  controlID: 17
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,14 +341,24 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\knut.karlsson\Documents\GitHub\Uppgift\SPelProjekt
+=======
+  m_LastProjectPath: C:\Users\victor.norberg\Documents\GitHub\Victor Denna Mapp\Uppgift\SPelProjekt
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
+<<<<<<< HEAD
     m_SelectedIDs: 70610000
     m_LastClickedID: 24944
     m_ExpandedIDs: 000000007061000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: fc940000
+    m_LastClickedID: 38140
+    m_ExpandedIDs: 00000000fc94000000ca9a3bffffff7f
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +386,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000070610000
+=======
+    m_ExpandedIDs: 
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,7 +520,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 0efbffff
+=======
+      m_ExpandedIDs: d6c3ffff
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -547,8 +581,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -98.66669, y: -26}
+      snapOffset: {x: -101, y: -26}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -558,9 +592,9 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -141, y: 149}
+      snapOffset: {x: -141, y: -182.33331}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 1
+      snapCorner: 3
       id: unity-grid-and-snap-toolbar
       index: 1
       layout: 1
@@ -794,9 +828,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 231.14001, y: 66.22112, z: 7117.835}
     speed: 2
     m_Value: {x: 235.9958, y: 68.944305, z: 7437.5303}
+=======
+    m_Target: {x: 3.9826794, y: -2.6734564, z: 417.5872}
+    speed: 2
+    m_Value: {x: 3.8030105, y: -2.5531697, z: 400.2704}
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -847,9 +887,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 159.10182
     speed: 2
     m_Value: 166.59877
+=======
+    m_Target: 8.079423
+    speed: 2
+    m_Value: 7.731505
+>>>>>>> 0fe5a540cc87771905b81c641fa1f6ee78110d1b
   m_Ortho:
     m_Target: 1
     speed: 2
